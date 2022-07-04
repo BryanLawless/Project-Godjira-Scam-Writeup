@@ -13,7 +13,6 @@ I am neutral when it comes to NFTs. Recently, someone from a NFT community notfi
 **Quick Notes:**
 - It appears they have linked a legit Twitter NFT service on their website to trick users: https://twitter.com/PGodjira.
 - After using a BetterDiscord plugin to find hidden channels, there was a channel in their server named `#mod-logs`.
-- The functionality of this bookmarklet is similiar to my repo: https://github.com/GalaxzyDev/MiniTokenMonster.
 
 ## 👀 First Glance
 1. This is the bookmarklet hosted on the scam website at first glance:
